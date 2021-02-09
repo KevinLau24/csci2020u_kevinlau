@@ -26,7 +26,7 @@ public class Main extends Application{
         primaryStage.setScene(new Scene(root, 600, 300));
 
 
-        // Programmatically Solution (Remove comment from primaryStage.setScene(scene))
+        // Programmatic Solution (Remove comment from primaryStage.setScene(scene))
         GridPane layout = new GridPane();
         layout.setAlignment(Pos.CENTER_LEFT);
         layout.setHgap(10);
