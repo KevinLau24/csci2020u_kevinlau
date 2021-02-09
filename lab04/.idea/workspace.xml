@@ -23,6 +23,11 @@
       <change beforePath="$PROJECT_DIR$/../lab02/build/libs/lab02.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../lab02/build/libs/lab02.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lab02/src/main/java/csci2020u/lab02" beforeDir="false" afterPath="$PROJECT_DIR$/../lab02/src/main/java/csci2020u/lab02" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lab03/src/main/java/csci2020u/lab03" beforeDir="false" afterPath="$PROJECT_DIR$/../lab03/src/main/java/csci2020u/lab03" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab04/sample/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab04/sample/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab04/sample/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab04/sample/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/sample.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -263,7 +268,7 @@
       <option name="presentableId" value="Default" />
       <updated>1359379246138</updated>
       <workItem from="1359379250712" duration="1302000" />
-      <workItem from="1612887736026" duration="11755000" />
+      <workItem from="1612887736026" duration="12765000" />
     </task>
     <servers />
   </component>
